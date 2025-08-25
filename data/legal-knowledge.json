@@ -1,0 +1,154 @@
+{
+  "categories": [
+    {
+      "id": "fundamental-rights",
+      "name": "Fundamental Rights",
+      "nameHindi": "मौलिक अधिकार",
+      "description": "Constitutional rights guaranteed to all Indian citizens",
+      "articles": [
+        {
+          "id": "right-to-equality",
+          "title": "Right to Equality (Article 14-18)",
+          "titleHindi": "समानता का अधिकार (अनुच्छेद 14-18)",
+          "summary": "All citizens are equal before law and entitled to equal protection of laws",
+          "summaryHindi": "सभी नागरिक कानून के समक्ष समान हैं और कानूनों की समान सुरक्षा के हकदार हैं",
+          "keyPoints": [
+            "Equality before law (Article 14)",
+            "Prohibition of discrimination (Article 15)",
+            "Equality of opportunity in public employment (Article 16)",
+            "Abolition of untouchability (Article 17)",
+            "Abolition of titles (Article 18)"
+          ],
+          "keyPointsHindi": [
+            "कानून के समक्ष समानता (अनुच्छेद 14)",
+            "भेदभाव का निषेध (अनुच्छेद 15)",
+            "सार्वजनिक रोजगार में अवसर की समानता (अनुच्छेद 16)",
+            "अस्पृश्यता का उन्मूलन (अनुच्छेद 17)",
+            "उपाधियों का उन्मूलन (अनुच्छेद 18)"
+          ]
+        },
+        {
+          "id": "right-to-freedom",
+          "title": "Right to Freedom (Article 19-22)",
+          "titleHindi": "स्वतंत्रता का अधिकार (अनुच्छेद 19-22)",
+          "summary": "Six freedoms guaranteed to citizens including speech, assembly, and movement",
+          "summaryHindi": "नागरिकों को गारंटीशुदा छह स्वतंत्रताएं जिनमें भाषण, सभा और आवागमन शामिल है",
+          "keyPoints": [
+            "Freedom of speech and expression",
+            "Freedom to assemble peacefully",
+            "Freedom to form associations",
+            "Freedom of movement",
+            "Freedom of residence",
+            "Freedom of profession"
+          ],
+          "keyPointsHindi": [
+            "भाषण और अभिव्यक्ति की स्वतंत्रता",
+            "शांतिपूर्वक सभा की स्वतंत्रता",
+            "संघ बनाने की स्वतंत्रता",
+            "आवागमन की स्वतंत्रता",
+            "निवास की स्वतंत्रता",
+            "व्यवसाय की स्वतंत्रता"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "consumer-rights",
+      "name": "Consumer Rights",
+      "nameHindi": "उपभोक्ता अधिकार",
+      "description": "Rights and protections for consumers under Indian law",
+      "articles": [
+        {
+          "id": "consumer-protection-act",
+          "title": "Consumer Protection Act 2019",
+          "titleHindi": "उपभोक्ता संरक्षण अधिनियम 2019",
+          "summary": "Comprehensive law protecting consumer rights and providing redressal mechanisms",
+          "summaryHindi": "उपभोक्ता अधिकारों की सुरक्षा और निवारण तंत्र प्रदान करने वाला व्यापक कानून",
+          "keyPoints": [
+            "Right to safety from hazardous goods",
+            "Right to be informed about quality and price",
+            "Right to choose from variety of goods",
+            "Right to be heard in consumer disputes",
+            "Right to seek redressal for unfair practices",
+            "Right to consumer education"
+          ],
+          "keyPointsHindi": [
+            "खतरनाक वस्तुओं से सुरक्षा का अधिकार",
+            "गुणवत्ता और कीमत की जानकारी का अधिकार",
+            "विभिन्न वस्तुओं में से चुनने का अधिकार",
+            "उपभोक्ता विवादों में सुने जाने का अधिकार",
+            "अनुचित प्रथाओं के लिए निवारण मांगने का अधिकार",
+            "उपभोक्ता शिक्षा का अधिकार"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "labor-rights",
+      "name": "Labor Rights",
+      "nameHindi": "श्रमिक अधिकार",
+      "description": "Rights and protections for workers and employees",
+      "articles": [
+        {
+          "id": "minimum-wages",
+          "title": "Minimum Wages Act 1948",
+          "titleHindi": "न्यूनतम मजदूरी अधिनियम 1948",
+          "summary": "Ensures minimum wages for workers in scheduled employments",
+          "summaryHindi": "अनुसूचित रोजगार में श्रमिकों के लिए न्यूनतम मजदूरी सुनिश्चित करता है",
+          "keyPoints": [
+            "Right to minimum wages as fixed by government",
+            "Payment of wages within prescribed time limits",
+            "Prohibition of payment below minimum wages",
+            "Right to claim unpaid wages",
+            "Protection against arbitrary wage deductions"
+          ],
+          "keyPointsHindi": [
+            "सरकार द्वारा निर्धारित न्यूनतम मजदूरी का अधिकार",
+            "निर्धारित समय सीमा के भीतर मजदूरी का भुगतान",
+            "न्यूनतम मजदूरी से कम भुगतान का निषेध",
+            "अवैतनिक मजदूरी का दावा करने का अधिकार",
+            "मनमानी मजदूरी कटौती से सुरक्षा"
+          ]
+        }
+      ]
+    }
+  ],
+  "procedures": [
+    {
+      "id": "file-fir",
+      "title": "How to File an FIR",
+      "titleHindi": "एफआईआर कैसे दर्ज करें",
+      "steps": [
+        "Visit the nearest police station",
+        "Provide details of the incident in writing",
+        "Ensure you receive a copy of the FIR",
+        "Note down the FIR number for future reference"
+      ],
+      "stepsHindi": [
+        "निकटतम पुलिस स्टेशन जाएं",
+        "घटना का विवरण लिखित रूप में दें",
+        "सुनिश्चित करें कि आपको एफआईआर की प्रति मिले",
+        "भविष्य के संदर्भ के लिए एफआईआर नंबर नोट करें"
+      ]
+    },
+    {
+      "id": "consumer-complaint",
+      "title": "Filing Consumer Complaint",
+      "titleHindi": "उपभोक्ता शिकायत दर्ज करना",
+      "steps": [
+        "Gather all relevant documents and receipts",
+        "Approach District Consumer Forum for complaints up to ₹1 crore",
+        "File complaint within 2 years of the cause of action",
+        "Pay prescribed court fees",
+        "Attend hearings as scheduled"
+      ],
+      "stepsHindi": [
+        "सभी संबंधित दस्तावेज और रसीदें इकट्ठा करें",
+        "₹1 करोड़ तक की शिकायतों के लिए जिला उपभोक्ता फोरम से संपर्क करें",
+        "कारण उत्पन्न होने के 2 साल के भीतर शिकायत दर्ज करें",
+        "निर्धारित न्यायालय शुल्क का भुगतान करें",
+        "निर्धारित सुनवाई में उपस्थित हों"
+      ]
+    }
+  ]
+}
