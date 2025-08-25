@@ -132,7 +132,7 @@
 
 /* Custom scrollbar styles */
 ::-webkit-scrollbar {
-  width: 8px;
+  width: 9px;
   height: 8px;
 }
 
